@@ -1,4 +1,11 @@
+# virtual environment and checkpoints
 venv/
 .venv/
 .ipynb_checkpoints/
-data/
+
+# raw data files
+data/ravdess/
+data/ravdess-emotional-speech-audio.zip
+
+# personal learning files
+kwang/learnings_lstm.md

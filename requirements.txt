@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+librosa==0.11.0
+scikit-learn
+tensorflow==2.20.0
+kaggle

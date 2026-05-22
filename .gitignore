@@ -9,3 +9,21 @@ data/ravdess-emotional-speech-audio.zip
 
 # personal learning files
 kwang/learnings_lstm.md
+
+# virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+data/

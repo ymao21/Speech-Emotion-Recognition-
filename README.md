@@ -1,6 +1,6 @@
 # Speech Emotion Recognition
 
-**ML II Final Project — University of Chicago Booth School of Business**
+**ML II Final Project — University of Chicago**
 
 **Authors:** Lam Tran, Kevin Wang, Jason Clark, Yining Mao
 
